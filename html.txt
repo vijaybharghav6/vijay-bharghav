@@ -1,0 +1,9 @@
+<html>
+   <head>
+       <title>Homepage</title>
+   </head>
+   <body>
+      <h1>Charan</h1>
+      <h6>ABHI</h6>	
+   </body>
+</html>
